@@ -1,0 +1,575 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7336966071365368877
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8770793690390274450}
+  m_Layer: 0
+  m_Name: ConjutoMesaVoladora (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8770793690390274450
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7336966071365368877}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.84, y: -2.109, z: 3.604}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8388279274183315746}
+  - {fileID: 5350515357155427396}
+  - {fileID: 8708702380728889914}
+  - {fileID: 4072968175114075057}
+  - {fileID: 3088971356706309550}
+  - {fileID: 8709677701357670424}
+  - {fileID: 2881198915570806970}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &312929080526220958
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8770793690390274450}
+    m_Modifications:
+    - target: {fileID: 2720830508543111562, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_Name
+      value: SillaVoladoraSin (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.329
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 270
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0b9cfc1198ea65d46a74e4e88abfef58, type: 3}
+--- !u!4 &3088971356706309550 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+    type: 3}
+  m_PrefabInstance: {fileID: 312929080526220958}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &681617374514191242
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8770793690390274450}
+    m_Modifications:
+    - target: {fileID: 2720830508543111562, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_Name
+      value: SillaVoladoraSin (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 270
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0b9cfc1198ea65d46a74e4e88abfef58, type: 3}
+--- !u!4 &2881198915570806970 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+    type: 3}
+  m_PrefabInstance: {fileID: 681617374514191242}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &771582297400944019
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8770793690390274450}
+    m_Modifications:
+    - target: {fileID: 8473453571320819211, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_Name
+      value: MesaVoladoraSin
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.026628727
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.026628727
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.30100012
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3c7fabefafb407a4491915b51bb1baeb, type: 3}
+--- !u!4 &8388279274183315746 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9141200638290949297, guid: 3c7fabefafb407a4491915b51bb1baeb,
+    type: 3}
+  m_PrefabInstance: {fileID: 771582297400944019}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1589650528601936001
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8770793690390274450}
+    m_Modifications:
+    - target: {fileID: 2720830508543111562, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_Name
+      value: SillaVoladoraSin (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.635
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0b9cfc1198ea65d46a74e4e88abfef58, type: 3}
+--- !u!4 &4072968175114075057 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+    type: 3}
+  m_PrefabInstance: {fileID: 1589650528601936001}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6220037259672951050
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8770793690390274450}
+    m_Modifications:
+    - target: {fileID: 2720830508543111562, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_Name
+      value: SillaVoladoraSin (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.635
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.6459999
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0b9cfc1198ea65d46a74e4e88abfef58, type: 3}
+--- !u!4 &8708702380728889914 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+    type: 3}
+  m_PrefabInstance: {fileID: 6220037259672951050}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6221575529999448872
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8770793690390274450}
+    m_Modifications:
+    - target: {fileID: 2720830508543111562, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_Name
+      value: SillaVoladoraSin (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.6459999
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 270
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0b9cfc1198ea65d46a74e4e88abfef58, type: 3}
+--- !u!4 &8709677701357670424 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+    type: 3}
+  m_PrefabInstance: {fileID: 6221575529999448872}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7262438250931040116
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8770793690390274450}
+    m_Modifications:
+    - target: {fileID: 2720830508543111562, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_Name
+      value: SillaVoladoraSin
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.635
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.329
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0b9cfc1198ea65d46a74e4e88abfef58, type: 3}
+--- !u!4 &5350515357155427396 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3353356816715197232, guid: 0b9cfc1198ea65d46a74e4e88abfef58,
+    type: 3}
+  m_PrefabInstance: {fileID: 7262438250931040116}
+  m_PrefabAsset: {fileID: 0}
