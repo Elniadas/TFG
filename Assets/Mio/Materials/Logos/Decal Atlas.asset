@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 225627996, guid: ffea41b2ef7376143bee608c897e587a, type: 3}
+  m_Name: Decal Atlas
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 91bcb7fcb31c29d42a5579fc5dfff649, type: 2}
+  regions:
+  - name: Atlas_0
+    region:
+      serializedVersion: 2
+      x: 0.005859375
+      y: 0.7480469
+      width: 0.25585938
+      height: 0.25
+  - name: Atlas_3
+    region:
+      serializedVersion: 2
+      x: 0.7050781
+      y: 0.73828125
+      width: 0.265625
+      height: 0.23242188
+  - name: Atlas_4
+    region:
+      serializedVersion: 2
+      x: 0.26367188
+      y: 0.7451172
+      width: 0.17773438
+      height: 0.24707031
+  - name: Atlas_6
+    region:
+      serializedVersion: 2
+      x: 0.4482422
+      y: 0.7294922
+      width: 0.24707031
+      height: 0.25683594
+  - name: Atlas_9
+    region:
+      serializedVersion: 2
+      x: 0.038085938
+      y: 0.48535156
+      width: 0.15429688
+      height: 0.24511719
+  - name: Atlas_11
+    region:
+      serializedVersion: 2
+      x: 0.22265625
+      y: 0.5
+      width: 0.25878906
+      height: 0.18652344
+  - name: Atlas_12
+    region:
+      serializedVersion: 2
+      x: 0.4814453
+      y: 0.48535156
+      width: 0.23046875
+      height: 0.23144531
+  - name: Atlas_13
+    region:
+      serializedVersion: 2
+      x: 0.75683594
+      y: 0.4736328
+      width: 0.21386719
+      height: 0.23828125
